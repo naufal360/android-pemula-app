@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DicodingSubmission</string>
+    <string name="name_player">Nama Pemain</string>
+    <string name="content_main">Berikut daftar 10 pemain berbahaya FC Barcelona</string>
+    <string name="content_overall">Value overall</string>
+    <string name="overview">overview</string>
+    <string name="player_identity">Identitas Pemain</string>
+    <string name="player_overview">Overview Pemain</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Nama Lengkap \nTanggal Lahir \nTempat Lahir \nTinggi \nPosisi \nNomor Punggung</string>
+    <string name="i_am">Ahmad Naufal Fadhil</string>
+    <string name="my_email">naufal360.an@gmail.com</string>
+    <string name="rank">Indonesia Rank \nWord Rank </string>
+    <string name="my_ig">IG/Twitter=@naufalfdl_pay</string>
+</resources>
